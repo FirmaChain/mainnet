@@ -155,6 +155,6 @@ If all of the above steps were completed without any error, you will be able to 
 
 ### Create pull request
 
-You must submit the gentx file to the FirmaChain team as a pull request to the https://github.com/FirmaChain/mainnet/colosseum-1/gentxs/ directory.\
+You must submit the gentx file to the FirmaChain team as a pull request to the https://github.com/FirmaChain/mainnet/tree/main/colosseum-1/gentxs/ directory.\
 _**\* Please change the file name to "vaildator\_name.json" and submit it.**_
 
