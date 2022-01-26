@@ -30,9 +30,9 @@ The following services are used for the mainnet:
 ## Seed Nodes
 ```
 Known seed node list:
-fffa9c85e3182342e4db7fc8027332c43a0cfa15@mainnet-seed1.firmachain.dev:26656
-3ca16236b26a83ab8ab5de583c20a79b9843c274@mainnet-seed2.firmachain.dev:26656
-8335d246b6703d112ae0726bfc2b6e3a5b0010c2@mainnet-seed3.firmachain.dev:26656
+f89dcc15241e30323ae6f491011779d53f9a5487@mainnet-seed1.firmachain.dev:26656
+04cce0da4cf5ceb5ffc04d158faddfc5dc419154@mainnet-seed2.firmachain.dev:26656
+940977bdc070422b3a62e4985f2fe79b7ee737f7@mainnet-seed3.firmachain.dev:26656
 ```
 
 ## Docs
