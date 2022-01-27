@@ -21,7 +21,7 @@ rm -rf ~/.firmachain
 
 ```
 cd ~
-curl htps://build.firmachain.org | bash
+curl htps://build.firmachain.dev | bash
 ```
 
 ### Check the binary build version and the integrity before setting global command.
