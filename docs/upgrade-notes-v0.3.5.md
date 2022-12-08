@@ -14,7 +14,7 @@ This document is a user guide to upgrade FIRMACHAIN from v0.3.3 to v0.3.5.
 | Cosmos SDK              |  v0.44.5 |  v0.45.9 | -                                                         |
 | Tendermint              | v0.34.14 | v0.34.21 | -                                                         |
 | IBC                     |  v1.2.2  |  v3.3.0  | -                                                         |
-| CosmWasm                |     -    |  v0.29.2 | -                                                         |
+| Wasmd                   |     -    |  v0.29.2 | -                                                         |
 | Minimum commission rate |    0%    |    5%    | [Proposal/2](https://explorer.firmachain.dev/proposals/2) |
 
 </br>
