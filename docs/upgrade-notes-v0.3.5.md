@@ -29,7 +29,7 @@ This document is a user guide to upgrade FIRMACHAIN from v0.3.3 to v0.3.5.
 
 ## Installation Process
 - If you want to use cosmovisor when upgrading the chain, please click on the link below.
-- https://firmachain-1.gitbook.io/firmachain/validator-guide/upgrade/cosmovisor-guide
+- https://docs.firmachain.org/master/validator-guide/upgrade/cosmovisor-guide
 
 </br>
 
