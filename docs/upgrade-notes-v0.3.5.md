@@ -5,7 +5,7 @@ This document is a user guide to upgrade FIRMACHAIN from v0.3.3 to v0.3.5.
 
 ## Overview
 - Governance Proposal: https://explorer.firmachain.dev/proposals/3
-- Estimated Date: December 20, 2022 UTC 12:00
+- Estimated Date: December 20, 2022 UTC 14:00
 - Target Block Height: `4,806,000`
 - Upgrade Type: Soft-fork by governance software upgrade proposal
 
