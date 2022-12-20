@@ -11,7 +11,7 @@ This document is a user guide to upgrade FIRMACHAIN from v0.3.3 to v0.3.5.
 
 |                         |  Before  |   After  | Others                                                       |
 | ----------------------- | :------: | :------: | --------------------------------------------------------- |
-| FirmaChain              |  v0.3.3  |  v0.3.5  | -                                                |
+| FirmaChain              |  v0.3.3  |  v0.3.5-patch  | -                                                |
 | Cosmos SDK              |  v0.44.5 |  v0.45.9 | -                                                         |
 | Tendermint              | v0.34.14 | v0.34.21 | -                                                         |
 | IBC                     |  v1.2.2  |  v3.3.0  | -                                                         |
@@ -35,7 +35,7 @@ This document is a user guide to upgrade FIRMACHAIN from v0.3.3 to v0.3.5.
 </br>
 
 ## Preparing for the Upgrade Binary
-Prepare the FirmaChain v0.3.5 binary for the upgrade.
+Prepare the FirmaChain v0.3.5-patch binary for the upgrade.
 
 This upgrade will not support the binary download method used in the previous upgrades. This is because with the addition of the CosmWasm module, users must install the "libwasmvm.so" library that suits the user’s respective operating system and version.
 
@@ -49,7 +49,7 @@ This upgrade will not support the binary download method used in the previous up
 # Binary build
 > git clone https://github.com/firmachain/firmachain.git
 > cd firmachain
-> git checkout v0.3.5
+> git checkout v0.3.5-patch
 > make install
 ```
 
@@ -59,12 +59,12 @@ This upgrade will not support the binary download method used in the previous up
 Please check the version once you’ve prepared your binary. If the version information is different from the one mentioned in the “Code Block” below, please create a new binary or [contact us](mailto:contact@firmachain.org) to solve the issue.
 ```bash
 > firmachaind version
-0.3.5
+0.3.5-patch
 
 > firmachaind version --long
 name: FirmaChain
 server_name: firmachaind
-version: 0.3.5
+version: 0.3.5-patch
 ...
 cosmos_sdk_version: v0.45.9
 ```
@@ -107,7 +107,7 @@ sudo mv ~/go/bin/firmachaind /usr/local/bin/firmachaind
 </br>
 
 ## Start Chain (Using Cosmovisor)
-Move the v0.3.5 binary to the appropriate folder space.
+Move the v0.3.5-patch binary to the appropriate folder space.
 
 ```bash
 # v0.3.5
