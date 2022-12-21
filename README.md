@@ -26,13 +26,13 @@ The following services are used for the mainnet:
 <br>
 
 ## Genesis
-- The genesis file for Colosseum-1 is available [here](https://github.com/FirmaChain/mainnet/blob/main/colosseum-1/genesis.json)
+- The genesis file for colosseum-1 is available [here](https://github.com/FirmaChain/mainnet/blob/main/colosseum-1/genesis.json)
 
 <br>
 
 ## Seed Nodes
-```
 Known seed node list:
+```
 f89dcc15241e30323ae6f491011779d53f9a5487@mainnet-seed1.firmachain.dev:26656
 04cce0da4cf5ceb5ffc04d158faddfc5dc419154@mainnet-seed2.firmachain.dev:26656
 940977bdc070422b3a62e4985f2fe79b7ee737f7@mainnet-seed3.firmachain.dev:26656
@@ -45,14 +45,14 @@ If you want to be a validator or full-node, You have to upgrade the chain based 
 |Block   | Chain Version|Link       |
 |--------|--------------|-----------|
 |0 ~ 4,805,999|[v0.3.3]|[Link](https://github.com/firmachain/firmachain/releases/tag/v0.3.3-patch)|
-|4,806,000 ~ Current|[v0.3.5]|[Link](https://github.com/firmachain/firmachain/releases/tag/v0.3.5)|
+|4,806,000 ~ Current|[v0.3.5-patch]|[Link](https://github.com/firmachain/firmachain/releases/tag/v0.3.5-patch)|
 
 <br>
 
 ## History
 
 ### *December 20, 2022 23:00:00 (GMT+9)*
-- colosseum-1 upgrade : v0.3.5
+- colosseum-1 upgrade : v0.3.5-patch
 
 ### *October 20, 2022 11:10:00 (GMT+9)*
 - colosseum-1 patched : v0.3.3-patch (IBC Security Advisory Dragonberry)
