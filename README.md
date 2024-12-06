@@ -45,11 +45,15 @@ If you want to be a validator or full-node, You have to upgrade the chain based 
 |Block   | Chain Version|Link       |
 |--------|--------------|-----------|
 |0 ~ 4,805,999|[v0.3.3]|[Link](https://github.com/firmachain/firmachain/releases/tag/v0.3.3-patch)|
-|4,806,000 ~ Current|[v0.3.5-patch]|[Link](https://github.com/firmachain/firmachain/releases/tag/v0.3.5-patch)|
+|4,806,000 ~ 15,677,999|[v0.3.5-patch]|[Link](https://github.com/firmachain/firmachain/releases/tag/v0.3.5-patch)|
+|15,678,000 ~ Afterwise|[v0.4.0]|[Link](https://github.com/firmachain/firmachain/releases/tag/v0.4.0)|
 
 <br>
 
 ## History
+
+### *December 19, 2024 15:05:00 (GMT+9, Planned)*
+- colosseum-1 upgrade : v0.4.0
 
 ### *December 20, 2022 23:00:00 (GMT+9)*
 - colosseum-1 upgrade : v0.3.5-patch
