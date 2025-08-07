@@ -47,7 +47,7 @@ If you want to be a validator or full-node, You have to upgrade the chain based 
 |0 ~ 4,805,999|[v0.3.3]|[Link](https://github.com/firmachain/firmachain/releases/tag/v0.3.3-patch)|
 |4,806,000 ~ 15,677,999|[v0.3.5-patch]|[Link](https://github.com/firmachain/firmachain/releases/tag/v0.3.5-patch)|
 |15,678,000 ~ 19,349,999 (Planned)|[v0.4.0]|[Link](https://github.com/firmachain/firmachain/releases/tag/v0.4.0)|
-|19,350,000 (Planned) ~ Afterwise|[v0.4.0]|[Link](https://github.com/firmachain/firmachain/releases/tag/v0.5.0)|
+|19,350,000 (Planned) ~ Afterwise|[v0.5.0]|[Link](https://github.com/firmachain/firmachain/releases/tag/v0.5.0)|
 
 <br>
 
