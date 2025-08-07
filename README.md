@@ -46,22 +46,26 @@ If you want to be a validator or full-node, You have to upgrade the chain based 
 |--------|--------------|-----------|
 |0 ~ 4,805,999|[v0.3.3]|[Link](https://github.com/firmachain/firmachain/releases/tag/v0.3.3-patch)|
 |4,806,000 ~ 15,677,999|[v0.3.5-patch]|[Link](https://github.com/firmachain/firmachain/releases/tag/v0.3.5-patch)|
-|15,678,000 ~ Afterwise|[v0.4.0]|[Link](https://github.com/firmachain/firmachain/releases/tag/v0.4.0)|
+|15,678,000 ~ 19,349,999 (Planned)|[v0.4.0]|[Link](https://github.com/firmachain/firmachain/releases/tag/v0.4.0)|
+|19,350,000 (Planned) ~ Afterwise|[v0.4.0]|[Link](https://github.com/firmachain/firmachain/releases/tag/v0.5.0)|
 
 <br>
 
 ## History
 
-### *December 19, 2024 15:05:00 (GMT+9, Planned)*
+### *August 21, 2025 14:00:00 (UTC+9, Planned)*
+- colosseum-1 upgrade : v0.5.0
+
+### *December 19, 2024 15:05:00 (UTC+9)*
 - colosseum-1 upgrade : v0.4.0
 
-### *December 20, 2022 23:00:00 (GMT+9)*
+### *December 20, 2022 23:00:00 (UTC+9)*
 - colosseum-1 upgrade : v0.3.5-patch
 
-### *October 20, 2022 11:10:00 (GMT+9)*
+### *October 20, 2022 11:10:00 (UTC+9)*
 - colosseum-1 patched : v0.3.3-patch (IBC Security Advisory Dragonberry)
 
-### *January 26, 2022 23:00:00 (GMT+9)*
+### *January 26, 2022 23:00:00 (UTC+9)*
 - colosseum-1 started : v0.3.3
 
 <br>
