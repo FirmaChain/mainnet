@@ -3,9 +3,10 @@ This is a patch note for nodes and validators participated(or synced) Firmachain
 
 The [issue](https://github.com/CosmWasm/wasmd/issues/478) from previous wasmd module causes **State Sync** nodes to not properly load/save contract binaries under `data/wasm`. It can cause AppHash error when a Firmachain node receives CosmWasm transaction using that stored contract.
 
+*Nodes that have not been affected by the AppHash issue, or have been running stably since before `v0.3.5`, do not need to apply this patch.
 
 ## How to fix
-The wasmd issue was patched on v0.5.0 upgrade, but to properly handle contracts that were deployed on v0.4.0, State Sync validators are recommeded to replace the data on `data/wasm` path with our patch file.
+The wasmd issue was patched on `v0.5.0` upgrade, but to properly handle contracts that were deployed on `v0.4.0`, State Sync validators are recommeded to replace the data on `data/wasm` path with our patch file.
 
 **Patch File**
 - File Path: [references/wasm.tar.gz](references/wasm.tar.gz)
@@ -23,7 +24,7 @@ sha256sum wasm.tar.gz
 28ee18eda3dc8d025d467ba9191fc512c41f7356a9d5e821af03cc68c5e19af3 wasm.tar.gz
 
 # 4. Remove old wasm directory
-rm -rf ~/.firmachain/data
+rm -rf ~/.firmachain/data/wasm
 
 # 5. Unzip patched wasm directory
 tar -C ~/.firmachain/data -xvzf wasm.tar.gz 
