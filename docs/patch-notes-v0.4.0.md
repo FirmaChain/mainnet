@@ -1,3 +1,7 @@
+> This issue is now resolved on the `v0.5.0-patch` release.
+> 
+> Please check this [note](https://github.com/FirmaChain/mainnet/blob/main/docs/patch-notes-v0.5.0-patch.md) and use latest release to automatically resolve this issue.
+
 ## Overview
 This is a patch note for nodes and validators participated(or synced) Firmachain after `v0.4.0`.
 
@@ -5,7 +9,7 @@ The [issue](https://github.com/CosmWasm/wasmd/issues/478) from previous wasmd mo
 
 *Nodes that have not been affected by the AppHash issue, or have been running stably since before `v0.3.5`, do not need to apply this patch.
 
-## How to fix
+## How to fix (Deprecated)
 The wasmd issue was patched on `v0.5.0` upgrade, but to properly handle contracts that were deployed on `v0.4.0`, State Sync validators are recommeded to replace the data on `data/wasm` path with our patch file.
 
 **Patch File**
